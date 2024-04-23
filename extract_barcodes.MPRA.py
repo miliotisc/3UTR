@@ -1,6 +1,6 @@
 """
 
-Updated Nov 2021 for Christos' UTR MPRA
+Updated Nov 2021 for UTR MPRA
 
 """
 import argparse
